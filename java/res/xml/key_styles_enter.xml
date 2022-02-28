@@ -263,7 +263,7 @@
         >
             <key-style
                 latin:styleName="enterKeyStyle"
-                latin:parentStyle="emojiKeyStyle" />
+                latin:parentStyle="emojiKeyStylePopup" />
         </case>
         <case
             latin:imeAction="actionGo"
